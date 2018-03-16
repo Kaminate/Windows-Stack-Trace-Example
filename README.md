@@ -2,5 +2,6 @@
 
 ![stack gif](stack.gif)
 
-Uses imgui dx12 example as a starting point
+The actual function is in source/ghost.cpp
+
 
